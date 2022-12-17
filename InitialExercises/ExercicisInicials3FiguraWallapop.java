@@ -1,4 +1,4 @@
-package EjerciciosIniciales;/*3. Et dediques a vendre figures Otaku comprades a Tokio per wallapop. Si estan en bon
+package InitialExercises;/*3. Et dediques a vendre figures Otaku comprades a Tokio per wallapop. Si estan en bon
         estat les pots revendre per un +25%, si no, per +10%. Implementa l’algoritme.*/
 
 

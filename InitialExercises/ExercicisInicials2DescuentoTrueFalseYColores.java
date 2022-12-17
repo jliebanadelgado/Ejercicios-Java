@@ -1,4 +1,4 @@
-package EjerciciosIniciales;/*2. A la botiga The bike house es fa un descompte del 20% als clients que son VIP i també
+package InitialExercises;/*2. A la botiga The bike house es fa un descompte del 20% als clients que son VIP i també
         als clients que facin una compra de més de 200 €. Pensa un algoritme que implementi
         aquesta lògica.*/
 

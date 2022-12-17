@@ -1,4 +1,4 @@
-package EjerciciosIniciales;/*4. El Departament d’Ensenyament de la Generalitat vol saber el percentatge nois i noies
+package InitialExercises;/*4. El Departament d’Ensenyament de la Generalitat vol saber el percentatge nois i noies
         que hi ha a les aules. Dissenya un algoritme que pregunti quantes noies i nois hi ha a
         l’aula i aleshores en mostri els percentatges.*/
 

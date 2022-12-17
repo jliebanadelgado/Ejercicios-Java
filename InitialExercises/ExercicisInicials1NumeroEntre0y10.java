@@ -1,4 +1,4 @@
-package EjerciciosIniciales;
+package InitialExercises;
 
 import java.util.Scanner;
 public class ExercicisInicials1NumeroEntre0y10 {
