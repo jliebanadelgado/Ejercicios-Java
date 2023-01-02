@@ -53,7 +53,7 @@ public class RepasoMatrices4 {
             }
         }
 
-        //LAS MATRIZES SISIEMPRE SE PINTAN ASI. SIEMPRE. SIEMPREEEEEEE. SIEMPRE.
+        //LAS MATRIZES SIEMPRE SE PINTAN ASI.
         //Con esta estructura de un for anidado dentro de otro creamos la estructura
 
         //matriz.lenght es igual a la primera dimension. (En este caso "filas") Osea al primer claudator "[]"
